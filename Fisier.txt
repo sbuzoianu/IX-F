@@ -1,2 +1,3 @@
 Acesta este primul fisier versionat.
 Acesta este continutul celui de-al doilea commit.
+Modificare in cloud.
